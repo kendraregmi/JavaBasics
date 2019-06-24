@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author kendr
+ *
+ */
+module javaBasics {
+}
