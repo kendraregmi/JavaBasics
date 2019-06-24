@@ -22,7 +22,7 @@ public class Variables {
 		 */
 		
 		//--------------------- Print to console -----------------------------//
-		System.out.println("Print to console");
+		System.out.println("Print to console ");
 		
 		
 		//--------------------- Variables in java ----------------------------//
@@ -34,9 +34,15 @@ public class Variables {
 		//Initialization and declararation of variable 
 		int secondInteger= 20;
 		float firstFloat= 12.90f;
+		float _secondFloat= 10.45555f;
+		int $gree= 23;
+		
+		$gree=15; 
 		
 		// Print of variable 
 		System.out.println("The first integer is "+ firstInteger + " and the second integer is "+ secondInteger);
+		System.out.println("Updated value of $gree "+ $gree);
+
 	}
 
 }
